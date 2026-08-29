@@ -38,8 +38,11 @@ $ npm i -g  @fusionfroze/<tool>
 
 ## Contact
 
-`[ handles — send me these and I'll drop them in ]`
+<p align="center">
+  <a href="https://x.com/fusionfroze"><img src="https://img.shields.io/badge/X-%40fusionfroze-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:fusionfroze@gmail.com"><img src="https://img.shields.io/badge/Email-fusionfroze%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 <div align="center">
-<sub>Based in Kolkata, India</sub>
+<sub>Based in India</sub>
 </div>
