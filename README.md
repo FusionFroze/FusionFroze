@@ -5,7 +5,7 @@
 [![Lune](https://img.shields.io/badge/Lune-luneapp.in-000000?style=flat-square&logo=googleplay&logoColor=white)](https://luneapp.in)
 [![npm](https://img.shields.io/badge/npm-%40fusionfroze-000000?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/settings/fusionfroze/packages)
 
-`[ Hello 👋 ]`
+`Hello 👋`
 
 </div>
 
