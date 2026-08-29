@@ -11,7 +11,7 @@
 
 ### Currently building
 
-**[Lune](https://luneapp.in)** — a widget-first presence app for couples, live on Google Play.
+**[Lune](https://luneapp.in)** — Lune is a mobile application that helps you connect with your partner in a unique, ambient and low-effort way. Find Lune on [Play Store](https://play.google.com/store/apps/details?id=com.fusionfroze.Lune).
 
 ### CLI Toolkit — `@fusionfroze` on npm
 
