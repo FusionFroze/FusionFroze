@@ -13,10 +13,7 @@
 
 ## Currently building
 
-**[Lune](https://luneapp.in)** — a mobile app that helps you connect with your partner in a unique, ambient, low-effort way. Find it on [Play Store](https://play.google.com/store/apps/details?id=com.fusionfroze.Lune).
-
-[![Play Store](https://img.shields.io/badge/▶_Play_Store-000000?style=flat-square)](https://play.google.com/store/apps/details?id=com.fusionfroze.Lune)
-[![luneapp.in](https://img.shields.io/badge/luneapp.in-000000?style=flat-square)](https://luneapp.in)
+**[Lune](https://luneapp.in)** — a mobile app that helps you connect with your partner in a unique, ambient and low-effort way. Find Lune on [![Play Store](https://img.shields.io/badge/▶_Play_Store-000000?style=flat-square)](https://play.google.com/store/apps/details?id=com.fusionfroze.Lune)
 
 <p align="center">
   <img src="assets/lune-1.png" width="200" alt="Lune home widget" />
