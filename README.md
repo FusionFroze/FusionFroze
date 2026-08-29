@@ -37,7 +37,7 @@ $ npm i -g  @fusionfroze/<tool>
 
 ## Other apps
  
-**Flip** — a simple, playful coin toss app. Open source. `[ Play Store link — send me this and I'll drop it in ]`
+**Flip** — a simple, playful coin toss app. Open source. [![Play Store](https://img.shields.io/badge/▶_Play_Store-000000?style=flat-square)](https://play.google.com/store/apps/details?id=com.fusionfroze.flip)
 
 ## Contact
 
