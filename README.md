@@ -17,10 +17,10 @@
 
 | | |
 |---|---|
-| [**vault**](https://www.npmjs.com/package/@fusionfroze/vault) | encrypted secrets manager |
-| [**stratify**](https://www.npmjs.com/package/@fusionfroze/stratify) | directory organizer |
-| [**squish**](https://www.npmjs.com/package/@fusionfroze/squish) | PDF compression |
-| [**fset**](https://www.npmjs.com/package/@fusionfroze/fset) | workspace launcher |
-| [**statsy**](https://www.npmjs.com/package/@fusionfroze/statsy) | npm/GitHub stats dashboard |
+| [**vault**](https://www.npmjs.com/package/@fusionfroze/vault) | encrypt and store your secrets locally |
+| [**stratify**](https://www.npmjs.com/package/@fusionfroze/stratify) | organize messy directories with a single command |
+| [**squish**](https://www.npmjs.com/package/@fusionfroze/squish) | compress PDFs locally |
+| [**fset**](https://www.npmjs.com/package/@fusionfroze/fset) | a simple workspace launcher |
+| [**statsy**](https://www.npmjs.com/package/@fusionfroze/statsy) | see basic stats about npm packages maintained by you |
 
 <br>
