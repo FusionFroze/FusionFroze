@@ -13,7 +13,7 @@
 
 ## Currently building
 
-<img src="assets/lune-icon.png" width="80" alt="Lune logo" />
+<!-- <img src="assets/lune-icon.png" width="80" alt="Lune logo" /> -->
 
 **[Lune](https://luneapp.in)** — a mobile app that helps you connect with your partner in a unique, ambient and low-effort way. Find Lune on [![Play Store](https://img.shields.io/badge/▶_Play_Store-000000?style=flat-square)](https://play.google.com/store/apps/details?id=com.fusionfroze.Lune)
 
@@ -37,7 +37,7 @@ $ npm i -g  @fusionfroze/<tool>
 
 ## Other apps
  
-**Flip** — a simple, playful coin toss app. Open source. [![Play Store](https://img.shields.io/badge/▶_Play_Store-000000?style=flat-square)](https://play.google.com/store/apps/details?id=com.fusionfroze.flip)
+**Flip**: a simple, playful coin toss app. Open source. [![Play Store](https://img.shields.io/badge/▶_Play_Store-000000?style=flat-square)](https://play.google.com/store/apps/details?id=com.fusionfroze.flip)
 
 ## Contact
 
